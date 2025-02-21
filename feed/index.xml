@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>ECUSTA HLI</description>
-	<lastBuildDate>Fri, 21 Feb 2025 12:12:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Feb 2025 23:13:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,6 +39,10 @@
 
 					<description><![CDATA[Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!]]></description>
 										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="/wp-content/uploads/2025/02/ecu-grad-1024x768.jpeg" alt="" class="wp-image-241" srcset="/wp-content/uploads/2025/02/ecu-grad-1024x768.jpeg 1024w, /wp-content/uploads/2025/02/ecu-grad-300x225.jpeg 300w, /wp-content/uploads/2025/02/ecu-grad-768x576.jpeg 768w, /wp-content/uploads/2025/02/ecu-grad-1536x1152.jpeg 1536w, /wp-content/uploads/2025/02/ecu-grad-2048x1536.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
 <p>Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!</p>
 ]]></content:encoded>
 					
