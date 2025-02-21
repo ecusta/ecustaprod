@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ECUSTA Higher Learning Institue</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>ECUSTA HLI</description>
+	<lastBuildDate>Fri, 21 Feb 2025 12:12:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.2</generator>
+
+<image>
+	<url>/files/static/2025/02/cropped-favicon-96x96-1-2-32x32.png</url>
+	<title>ECUSTA Higher Learning Institue</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Graduation Ceremony</title>
+		<link>/2025/02/19/graduation-ceremony/</link>
+		
+		<dc:creator><![CDATA[Communications]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://main.ecusta-hli.edu.et/?p=3</guid>
+
+					<description><![CDATA[Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!]]></description>
+										<content:encoded><![CDATA[
+<p>Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Welcome to Our New Website!</title>
+		<link>/2023/10/30/welcome-to-our-new-website/</link>
+					<comments>/2023/10/30/welcome-to-our-new-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Communications]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2023 12:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://main.ecusta-hli.edu.et/?p=2</guid>
+
+					<description><![CDATA[We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!]]></description>
+										<content:encoded><![CDATA[<p>We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/10/30/welcome-to-our-new-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
