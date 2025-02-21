@@ -13,7 +13,7 @@
 	<link rel="self" type="application/atom+xml" href="/feed/atom/" />
 
 	<generator uri="https://wordpress.org/" version="6.7.2">WordPress</generator>
-<icon>/files/static/2025/02/cropped-favicon-96x96-1-2-32x32.png</icon>
+<icon>/wp-content/uploads/2025/02/cropped-favicon-96x96-1-2-32x32.png</icon>
 	<entry>
 		<author>
 			<name>Communications</name>
@@ -33,27 +33,5 @@
 <p>Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!</p>
 ]]></content>
 		
-			</entry>
-		<entry>
-		<author>
-			<name>Communications</name>
-							<uri>/</uri>
-						</author>
-
-		<title type="html"><![CDATA[Welcome to Our New Website!]]></title>
-		<link rel="alternate" type="text/html" href="/2023/10/30/welcome-to-our-new-website/" />
-
-		<id>https://main.ecusta-hli.edu.et/?p=2</id>
-		<updated>2023-10-30T12:00:00Z</updated>
-		<published>2023-10-30T12:00:00Z</published>
-		<category scheme="/" term="News" /><category scheme="/" term="Education" />
-		<summary type="html"><![CDATA[We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!]]></summary>
-
-					<content type="html" xml:base="/2023/10/30/welcome-to-our-new-website/"><![CDATA[<p>We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!</p>
-]]></content>
-		
-					<link rel="replies" type="text/html" href="/2023/10/30/welcome-to-our-new-website/#comments" thr:count="0" />
-			<link rel="replies" type="application/atom+xml" href="/2023/10/30/welcome-to-our-new-website/feed/atom/" thr:count="0" />
-			<thr:total>0</thr:total>
 			</entry>
 	</feed>
