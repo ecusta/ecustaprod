@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>ECUSTA HLI</description>
-	<lastBuildDate>Fri, 21 Feb 2025 23:13:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Feb 2025 23:55:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Welcome to Our New Website!</title>
+		<link>/2025/02/21/welcome-to-our-new-website/</link>
+					<comments>/2025/02/21/welcome-to-our-new-website/#respond</comments>
+		
+		<dc:creator><![CDATA[Communications]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2025 09:00:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://main.ecusta-hli.edu.et/?p=2</guid>
+
+					<description><![CDATA[We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!]]></description>
+										<content:encoded><![CDATA[<p>We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2025/02/21/welcome-to-our-new-website/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Graduation Ceremony</title>
 		<link>/2025/02/19/graduation-ceremony/</link>
 		
@@ -39,10 +59,6 @@
 
 					<description><![CDATA[Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="/wp-content/uploads/2025/02/ecu-grad-1024x768.jpeg" alt="" class="wp-image-241" srcset="/wp-content/uploads/2025/02/ecu-grad-1024x768.jpeg 1024w, /wp-content/uploads/2025/02/ecu-grad-300x225.jpeg 300w, /wp-content/uploads/2025/02/ecu-grad-768x576.jpeg 768w, /wp-content/uploads/2025/02/ecu-grad-1536x1152.jpeg 1536w, /wp-content/uploads/2025/02/ecu-grad-2048x1536.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
 <p>Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!</p>
 ]]></content:encoded>
 					

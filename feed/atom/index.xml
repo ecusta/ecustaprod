@@ -6,7 +6,7 @@
 	<title type="text">ECUSTA Higher Learning Institue</title>
 	<subtitle type="text">ECUSTA HLI</subtitle>
 
-	<updated>2025-02-21T23:13:31Z</updated>
+	<updated>2025-02-21T23:55:36Z</updated>
 
 	<link rel="alternate" type="text/html" href="/" />
 	<id>/feed/atom/</id>
@@ -20,20 +20,38 @@
 							<uri>/</uri>
 						</author>
 
+		<title type="html"><![CDATA[Welcome to Our New Website!]]></title>
+		<link rel="alternate" type="text/html" href="/2025/02/21/welcome-to-our-new-website/" />
+
+		<id>https://main.ecusta-hli.edu.et/?p=2</id>
+		<updated>2025-02-21T23:55:36Z</updated>
+		<published>2025-02-21T09:00:00Z</published>
+		<category scheme="/" term="News" /><category scheme="/" term="Education" />
+		<summary type="html"><![CDATA[We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!]]></summary>
+
+					<content type="html" xml:base="/2025/02/21/welcome-to-our-new-website/"><![CDATA[<p>We are excited to launch our new website! This platform will serve as a hub for information about our programs, events, and achievements. Stay tuned for updates!</p>
+]]></content>
+		
+					<link rel="replies" type="text/html" href="/2025/02/21/welcome-to-our-new-website/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/2025/02/21/welcome-to-our-new-website/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Communications</name>
+							<uri>/</uri>
+						</author>
+
 		<title type="html"><![CDATA[Graduation Ceremony]]></title>
 		<link rel="alternate" type="text/html" href="/2025/02/19/graduation-ceremony/" />
 
 		<id>https://main.ecusta-hli.edu.et/?p=3</id>
-		<updated>2025-02-21T23:13:31Z</updated>
+		<updated>2025-02-21T23:44:29Z</updated>
 		<published>2025-02-19T09:00:00Z</published>
 		<category scheme="/" term="Events" /><category scheme="/" term="Education" />
 		<summary type="html"><![CDATA[Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!]]></summary>
 
 					<content type="html" xml:base="/2025/02/19/graduation-ceremony/"><![CDATA[
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="/wp-content/uploads/2025/02/ecu-grad-1024x768.jpeg" alt="" class="wp-image-241" srcset="/wp-content/uploads/2025/02/ecu-grad-1024x768.jpeg 1024w, /wp-content/uploads/2025/02/ecu-grad-300x225.jpeg 300w, /wp-content/uploads/2025/02/ecu-grad-768x576.jpeg 768w, /wp-content/uploads/2025/02/ecu-grad-1536x1152.jpeg 1536w, /wp-content/uploads/2025/02/ecu-grad-2048x1536.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
 <p>Join us for our graduation ceremony on February 22, 2025. You can explore our campus, meet our faculty, and learn about our programs while celebrating the achievements of the graduates. We look forward to seeing you there!</p>
 ]]></content>
 		
